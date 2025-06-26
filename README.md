@@ -26,7 +26,8 @@
 
 ## 🛠 Kaynaklar
 - [Marlin Resmi Sitesi](https://marlinfw.org/)
-- [MKS Robin Nano V3 Bilgi Sayfası](https://reprap.org/wiki/MKS_Robin_Nano)
+- [MKS Robin Nano V3 Bilgi Sayfası](https://makerbase3d.com/product/robin-nano-v3-eagle-32bit-168mhz-f407-control-board-3d-printer-parts-tft-screen-usb-print/)
+- [MKS Robin Nano V3 Github](https://github.com/makerbase-mks/MKS-Robin-Nano-V3.X)
 
 ## ⚡ Uyarılar
 ⚠ Bu yapılandırma yalnızca ilgili donanım için optimize edilmiştir. Farklı donanımlarda kullanmadan önce mutlaka inceleme ve test yapınız.
@@ -60,7 +61,9 @@
 
 ## 🛠 Resources
 - [Official Marlin Website](https://marlinfw.org/)
-- [MKS Robin Nano V3 Info Page](https://reprap.org/wiki/MKS_Robin_Nano)
+- [MKS Robin Nano V3 Info Page](https://makerbase3d.com/product/robin-nano-v3-eagle-32bit-168mhz-f407-control-board-3d-printer-parts-tft-screen-usb-print/)
+- [MKS Robin Nano V3 Github](https://github.com/makerbase-mks/MKS-Robin-Nano-V3.X)
+
 
 ## ⚡ Warnings
 ⚠ This configuration is optimized for specific hardware. Always review and test thoroughly before using on other setups.
