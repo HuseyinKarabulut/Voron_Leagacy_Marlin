@@ -3,6 +3,7 @@
 
 ## 🔧 Donanım Özellikleri
 - 🖥 **Anakart:** MKS Robin Nano V3
+- 🖥 **Ekran:** MKS TFT35 (MKS T35)
 - ⚙ **Mekanik Yapı:** CoreXY
 - 🧵 **Ekstrüder Sayısı:** 2 (Tek nozzle - Single Nozzle sistemi aktif)
 - 🎛 **Sürücüler:** TMC2209 (X, Y, Z, E0, E1)
@@ -36,6 +37,7 @@
 
 ## 🔧 Hardware Features
 - 🖥 **Mainboard:** MKS Robin Nano V3
+- 🖥 **Screen:** MKS TFT35 (MKS T35)
 - ⚙ **Mechanics:** CoreXY
 - 🧵 **Extruders:** 2 (Single Nozzle system enabled)
 - 🎛 **Drivers:** TMC2209 (X, Y, Z, E0, E1)
