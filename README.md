@@ -1,4 +1,8 @@
 
+<img width="752" height="752" alt="VORON_Legacy_Assembly v5" src="https://github.com/user-attachments/assets/3d401963-6f7f-41a6-9bf3-f36dd228581e" />
+
+
+
 # 📁 Özelleştirilmiş Marlin 2.x Yapılandırması
 
 ## 🔧 Donanım Özellikleri
